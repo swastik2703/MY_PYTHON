@@ -1,13 +1,13 @@
-# r = int(input("enter the radius of circle: "))
-# pi = 3.14
+r = int(input("enter the radius of circle: "))
+pi = 3.14
 
-# area = pi * r * r
-# print("area =",area)
+area = pi * r * r
+print("area =",area)
 
 
-#*************** another method **********
+# *************** another method **********
 
-def area(r):
-    pi = 3.14
-    return pi * r * r
-print("area =",area(5))
+# def area(r):
+#     pi = 3.14
+#     return pi * r * r
+# print("area =",area(5))
